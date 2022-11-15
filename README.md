@@ -11,7 +11,7 @@
     - cardPoint()，可用來回傳卡牌點數，用以計算分數，判斷輸贏。
     - cardSuit()，可用來回傳卡牌花色，用以判斷是紅心、黑桃、方塊或梅花。
     - cardNumber()，可用來特別處理1、11、12、13等數字的特殊顯示方式為A、J、Q、K
-   - Fisher-Yates 演算法實作
+  - Fisher-Yates 演算法實作
     - 撰寫shuffle()函式，讓建立的52張卡牌陣列能亂數洗牌後，再放回陣列
 ### 遊戲初始畫面
 ![image](https://user-images.githubusercontent.com/109893487/201807264-538c9b24-4aa3-480c-8c2d-dd85ae71810f.png)
