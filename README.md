@@ -1,0 +1,2 @@
+# 21PokerGame
+以Javascript及jQuery撰寫的21點樸克牌遊戲
